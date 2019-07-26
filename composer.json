@@ -1,16 +1,14 @@
 {
-    "name": "johndodev/config-service-provider",
+    "name": "gaetanlefevre/config-service-provider",
     "type": "library",
     "description": "A simple config service provider for Silex (or pimple) for a well and pretty structured php config files.",
     "keywords": ["silex", "config", "pimple"],
-    "homepage": "https://github.com/johndodev/config-service-provider",
+    "homepage": "https://github.com/gaetanlefevre/config-service-provider",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jonathan Plantey",
-            "email": "jonathan.plantey@gmail.com",
-            "homepage": "http://www.jonathan-plantey.fr",
-            "role": "Developer"
+            "name": "Gaëtan Lefèvre",
+            "email": "gaetan@awelty.com"
         }
     ],
     "require": {
